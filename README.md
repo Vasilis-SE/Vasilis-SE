@@ -1,3 +1,5 @@
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=c5705d&height=50&%20render&fontSize=90" />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-SE&theme=calm" />
 </a>
