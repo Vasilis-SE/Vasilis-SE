@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vasilis-SE&count_private=true&show_icons=true&theme=calm" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vasilis-SE&hide=html&count_private=true&show_icons=true&theme=calm" />
 </a>
 
 <!--
