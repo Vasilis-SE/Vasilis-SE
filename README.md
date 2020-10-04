@@ -1,11 +1,11 @@
  <img src="https://capsule-render.vercel.app/api?type=slice&color=c5705d&height=50&%20render&fontSize=90" width="100%" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-SE&theme=calm" height="300"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-SE&hide=html&langs_count=10&theme=calm" height="300"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vasilis-SE&hide=html&count_private=true&show_icons=true&theme=calm" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vasilis-SE&count_private=true&show_icons=true&theme=calm" />
 </a>
 
 <!--
