@@ -1,7 +1,7 @@
  <img src="https://capsule-render.vercel.app/api?type=slice&color=c5705d&height=50&%20render&fontSize=90" width="100%" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-SE&hide=html,SCSS,Less,CSS&langs_count=8&theme=calm" height="300"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasilis-SE&hide=html,SCSS,Less,CSS&langs_count=8&theme=calm" height="400"/>
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
