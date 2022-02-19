@@ -12,7 +12,7 @@ My name is Vasilis I am a passionate software engineer striving for perfection. 
 
 - :briefcase: Currently working as a software engineer.
 - 🌱 I’m currently learning <b> ML, Various Heuristic Algorithms </b>.
-- :books: I'm planning on learning in the future <b> Scala, Spring Boot, Cassandra </b>.
+- :books: I'm planning on learning in the future <b> Laravel, Scala, Spring Boot, Cassandra </b>.
 - :computer: At the moment side projects consist of a fully functional flutter app with typescript on the backend with redis and postgresql
 
 ## Skills & Technologies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
