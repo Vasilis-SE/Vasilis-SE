@@ -16,7 +16,7 @@ My name is Vasilis I am a passionate software engineer striving for perfection. 
 - :computer: At the moment side projects consist of a fully functional flutter app with typescript on the backend with redis and postgresql
 
 ## Skills & Technologies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
-<p>All the below are technologies that i either currently used or used in the past. </p>
+<p>All the below are technologies that i either currently use or used in the past. </p>
 <div> 
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
