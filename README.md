@@ -11,7 +11,7 @@ My name is Vasilis I am a passionate software engineer striving for perfection. 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasilis-SE" alt="Vasilis-SE" /> </p> -->
 
 - :briefcase: Currently working as a software engineer.
-- 🌱 I’m currently learning <b> ML, Various Heuristic Algorithms </b>.
+- 🌱 I’m currently learning <b> ML, Golang </b>.
 - :books: I'm planning on learning in the future <b> Laravel, Scala, Spring Boot, Cassandra </b>.
 - :computer: At the moment side projects consist of a fully functional flutter app with typescript on the backend with redis and postgresql
 
