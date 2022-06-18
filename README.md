@@ -15,7 +15,7 @@ My name is Vasilis I am a passionate software engineer striving for perfection. 
 - :books: I'm planning on learning in the future <b> Laravel, Scala, Spring Boot, Cassandra </b>.
 - :computer: At the moment side projects consist of a fully functional flutter app with typescript on the backend with redis and postgresql
 
-## Skills & Technologies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills & Technologies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp; 
 <p>All the below are technologies that i either currently use or used in the past. </p>
 <div> 
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -36,7 +36,7 @@ My name is Vasilis I am a passionate software engineer striving for perfection. 
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp; 
 <div> 
   <a href="https://gr.linkedin.com/in/vasilis-triantaris-382a27b7" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
